@@ -1,11 +1,15 @@
 .container{
   align-items: center;
-  background-color: darkgray;
+  background-color: lightgray;
 }
 h1{
   padding: 5px;
-  background-color: #ee7788;
+  background-color: #E96B10;
   font-family: 'Righteous', cursive;
+}
+h2{
+  padding: 5px;
+  font-family: 'IBM Plex Serif', serif;
 }
 h3{
   text-align: center;
@@ -21,6 +25,5 @@ h3{
   align-items: center;
   margin: 10px;
   padding: 10px;
-  background-color: orange;
   font-family: 'Righteous', cursive;
 }
