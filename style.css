@@ -1,4 +1,5 @@
 .container{
+  align-items: center;
   background-color: darkgray;
 }
 h1{
@@ -9,11 +10,10 @@ h1{
 h3{
   text-align: center;
 }
-#first {
+.row {
   margin-top: 5px;
   margin-bottom: 10px;
-  padding: 15px;
-  background-color: turquoise;
+  padding: 5px;
   font-family: 'IBM Plex Serif', serif;
 }
 .middle{
